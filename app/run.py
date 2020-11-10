@@ -74,7 +74,7 @@ def index():
                 
                 Bar(
                     x=genre_names,
-                    y=genre_not_rel,
+                    y=genre_not_related,
                     name = 'Not Related'
                 )
             ],
